@@ -1,0 +1,10 @@
+C:\Users\Windows10\source\repos\sinav hesaplama\sinav hesaplama\bin\Debug\sinav hesaplama.exe.config
+C:\Users\Windows10\source\repos\sinav hesaplama\sinav hesaplama\bin\Debug\sinav hesaplama.exe
+C:\Users\Windows10\source\repos\sinav hesaplama\sinav hesaplama\bin\Debug\sinav hesaplama.pdb
+C:\Users\Windows10\source\repos\sinav hesaplama\sinav hesaplama\obj\Debug\sinav hesaplama.csprojAssemblyReference.cache
+C:\Users\Windows10\source\repos\sinav hesaplama\sinav hesaplama\obj\Debug\sinav_hesaplama.Form1.resources
+C:\Users\Windows10\source\repos\sinav hesaplama\sinav hesaplama\obj\Debug\sinav_hesaplama.Properties.Resources.resources
+C:\Users\Windows10\source\repos\sinav hesaplama\sinav hesaplama\obj\Debug\sinav hesaplama.csproj.GenerateResource.cache
+C:\Users\Windows10\source\repos\sinav hesaplama\sinav hesaplama\obj\Debug\sinav hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\sinav hesaplama\sinav hesaplama\obj\Debug\sinav hesaplama.exe
+C:\Users\Windows10\source\repos\sinav hesaplama\sinav hesaplama\obj\Debug\sinav hesaplama.pdb
